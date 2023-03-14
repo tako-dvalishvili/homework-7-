@@ -1,0 +1,160 @@
+*{box-sizing: border-box;}
+html, body{
+    margin: 0;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url('https://free.bboxtype.com/embedfonts/?family=FiraGO:400');
+  }
+.head1{
+    padding-top: 18px;
+    padding-left: 54px;
+    font-family: 'FiraGO';
+    font-style: normal;
+}
+.head2{
+    padding-top: 36px;
+    padding-left: 54px;
+    font-family: 'FiraGO';
+    font-style: normal;
+    margin-bottom:-35px;
+}
+
+
+table, .rec{
+    margin-left: 54px;
+    margin-right:54px;
+
+    font-family: 'FiraGO';
+    font-style: normal;
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+    height: 50px;
+    padding-left: 14px;
+}
+.tdname{
+    padding-left: 14px;
+    padding-right: 178px;
+}
+.tdemail{
+    padding-right: 136px;
+}
+.tdmobile{
+    padding-right:146px;
+}
+.tdaction{
+    padding-right: 34px;
+}
+.input-item{
+    margin-left: 54px;
+    margin-right :54px;
+
+    background: #FAFAFA;
+    border: 1px solid #EDEDED;
+    height: 80px;
+    padding-left: 15px;
+}
+.Name{
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+    width: 350px;
+    height: 50px;
+    padding-right: px;
+    padding-left: 14px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    margin-right: 20px;
+    margin-left: 12px;
+    font-family: 'FiraGO';
+    font-style: normal;
+
+}
+.Email{
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+    height:50px;
+    width:266px;
+    margin-right: 25px;
+    padding-left: 14px;
+    margin-right: 25px;
+    margin-left: 35px;
+    font-family: 'FiraGO';
+    font-style: normal;
+}
+.Mobile{
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 10px;
+    width:217px;    
+    height:50px;
+    margin-right:38px;
+    padding-left: 14px;
+    margin-left: 25px;
+    font-family: 'FiraGO';
+    font-style: normal;
+}
+button{
+    background: #FFDD04;
+    border-radius: 10px;
+    width: 141px;
+    height: 50px;
+    border-color: transparent;
+    margin-left: 50px;
+    font-family: 'FiraGO';
+    font-style: normal;
+}
+table tr td.Act{
+    margin-right: 40px;
+}
+
+.CU{
+    font-family: 'FiraGO';
+    font-style: normal;
+    margin-left:93%;
+    margin-bottom: 21px;
+
+}
+.table_2{
+    font-family: 'FiraGO';
+    font-style: normal;
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+    height: 50px;
+}
+
+.Delete{
+    width: 93px;
+    height: 33px;
+    background: #FF8271;
+    border-radius: 10px;
+}
+.Edit{
+    width: 93px;
+    height: 33px;
+    background: #FFDD04;
+    border-radius: 10px;
+    margin-left:1ch;
+}
+.table_3{
+    height: 50px;
+    margin-left: 12px;
+    border-style: hidden;
+    background: #FAFAFA;
+    border: 1px solid #EDEDED;
+    margin-left: 54px;
+}
+.Name_2{
+    padding-left:12px;
+}
+
+.buttons{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding-top: 6px;
+}
+
+
+
